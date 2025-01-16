@@ -1,6 +1,6 @@
 # Versión 1 
 
-generada por Eloi.
+generada por Eloi
 verificada por  Nico
 comunicada por Valentino
 
