@@ -1,8 +1,10 @@
 # Versión 1 
 
-generada por Eloi
-verificada por  Nico
-comunicada por Valentino
+Generada por Eloi
+
+Verificada por  Nico
+
+Comunicada por Valentino
 
 # Enlace Video
 https://youtu.be/oaK15UioMNY
@@ -10,7 +12,9 @@ https://youtu.be/oaK15UioMNY
 # Versión 2 
 
 generada por Valentino
+
 verificada por Eloi y Nico
+
 comunicada por Valentino
 
 # Enlace Video
@@ -19,7 +23,9 @@ https://youtu.be/KW3LxU6gRyw
 # Versión 3 
 
 generada por Valentino y Nico
+
 verificada por Eloi y Nico
+
 comunicada por Valentino
 
 # Enlace Video
@@ -28,21 +34,20 @@ https://youtu.be/mKBzmdp7Mw0
 #Versión 4 
 
 generada por Nico y Valentino
+
 verificada por Nico y Eloi
+
 comunicada por Valentino
 
 # Enlace Video
 https://youtu.be/9F61fofQgUs
 
-
-
-
-
-
 # Versión 5 
 
 generada por Nico
+
 veridicada por Eloi
+
 comunicada por Valentino
 
 
