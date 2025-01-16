@@ -11,44 +11,44 @@ https://youtu.be/oaK15UioMNY
 
 # Versión 2 
 
-generada por Valentino
+Generada por Valentino
 
-verificada por Eloi y Nico
+Verificada por Eloi y Nico
 
-comunicada por Valentino
+Comunicada por Valentino
 
 # Enlace Video
 https://youtu.be/KW3LxU6gRyw
 
 # Versión 3 
 
-generada por Valentino y Nico
+Generada por Valentino y Nico
 
-verificada por Eloi y Nico
+Verificada por Eloi y Nico
 
-comunicada por Valentino
+Comunicada por Valentino
 
 # Enlace Video
 https://youtu.be/mKBzmdp7Mw0
 
 #Versión 4 
 
-generada por Nico y Valentino
+Generada por Nico y Valentino
 
-verificada por Nico y Eloi
+Verificada por Nico y Eloi
 
-comunicada por Valentino
+Comunicada por Valentino
 
 # Enlace Video
 https://youtu.be/9F61fofQgUs
 
 # Versión 5 
 
-generada por Nico
+Generada por Nico
 
-veridicada por Eloi
+Veridicada por Eloi
 
-comunicada por Valentino
+Comunicada por Valentino
 
 
 # Enlace Video
